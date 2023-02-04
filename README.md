@@ -1,11 +1,18 @@
-# AI NFT Generator
+# foundation for a a general learning model
+# generative AI to NFT image
+# interface to the interplanetary file system
+# https://github.com/interplanetaryfilesystem
+# further Interplanetary dAPP resources
+# https://github.com/IPFSdapps
+# "I am who I am because of who I am"
+#  https://github.com/idmanagement
 
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
+- Javascript nodejs openai (React & Testing)
+- [Hardhat](https://hardhat.org/) (EVM CLI Framework)
+- [Ethers.js](https://docs.ethers.io/v5/) (web3 Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
 - [NFT.Storage](https://nft.storage/) (Connection to IPFS)
 - [Hugging Face](https://huggingface.co/) (AI Models)
